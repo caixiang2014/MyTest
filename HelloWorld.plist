@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://raw.githubusercontent.com/caixiang2014/MyTest/master/HelloWorld.ipa</string>
+                    <string>https://raw.githubusercontent.com/caixiang2014/MyTest/master/HelloWorld.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
